@@ -17,7 +17,7 @@ This repository contains consolidated notes on various subjects to help with qui
 
 This repository is a personal collection of academic and technical notes useful for:
 
-- Exam Preparation  
+- Exam Preparation 
 - Interviews  
 - Revision & Quick Reference
 
